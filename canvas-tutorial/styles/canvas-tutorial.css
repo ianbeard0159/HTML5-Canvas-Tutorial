@@ -1,0 +1,12 @@
+/*
+#myCanvas{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
+*/
+#clock{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(42, 63, 63);
+}
